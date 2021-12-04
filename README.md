@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+
+This project uses three different React.js hooks within a single project. The main goal is to change a emoji state from one emoji to a different emoji upon being clicked. The 1st is a traditional class component that toggles between emojis on a mouse click and requires a stateful component. The 2nd is a functional component using hooks that toggles between emojis on a mouse click that requires the React hook `setState`. The 3rd is a custom hook called `setToggle` that just toggles a state from true to false. It should have a default initial state of `false` and should be able to be a reusable hook that has no UI included
+
 ## Project Screenshots
 
 ![image](https://user-images.githubusercontent.com/40038829/144702578-19990484-b756-4742-b93f-5fce7dc21fd3.png)
