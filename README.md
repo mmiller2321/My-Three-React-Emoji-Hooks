@@ -13,7 +13,7 @@ This project uses three different React.js hooks within a single project. The ma
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/40038829/144702594-6bf1d488-3906-4480-816c-572dd9cba93d.png" width=5075% height=75%>
+  <img src="https://user-images.githubusercontent.com/40038829/144702594-6bf1d488-3906-4480-816c-572dd9cba93d.png" width=75% height=75%>
 </p>
 
 ## Available Scripts
