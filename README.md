@@ -12,10 +12,6 @@ This project uses three different React.js hooks within a single project. The ma
   <img src="https://user-images.githubusercontent.com/40038829/144702578-19990484-b756-4742-b93f-5fce7dc21fd3.png" width=50% height=50%>
 </p>
 
-![image](https://user-images.githubusercontent.com/40038829/144702578-19990484-b756-4742-b93f-5fce7dc21fd3.png)
-
-![image](https://user-images.githubusercontent.com/40038829/144702594-6bf1d488-3906-4480-816c-572dd9cba93d.png) 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40038829/144702594-6bf1d488-3906-4480-816c-572dd9cba93d.png" width=50% height=50%>
 </p>
